@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: User Story - version 2
 about: This template defines a user story
 title: ''
 labels: ''
